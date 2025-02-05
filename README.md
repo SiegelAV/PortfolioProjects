@@ -1,2 +1,2 @@
 # PortfolioProjects
-![Test query](images/SQL-COVID-Project)
+![Test query](images/SQL-COVID-Project.png)
